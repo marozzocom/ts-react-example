@@ -1,0 +1,18 @@
+{
+  "cSpell.words": ["Formik", "Packery", "allitems", "draggabilly"],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#ffdddd",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#009f00",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#ffaaaa",
+    "titleBar.inactiveBackground": "#ffaaaa99",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#ffaaaa",
+    "statusBarItem.hoverBackground": "#ff7777",
+    "statusBar.foreground": "#15202b"
+  },
+  "peacock.color": "#ffaaaa"
+}
